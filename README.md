@@ -34,7 +34,7 @@ Copy code
 ### 4.1 Files and Directories
 
 #### Driver Code Structure
-```css
+```
 simplecontroller/
 ├── src/
 │   ├── controller_device_driver.cpp
@@ -57,6 +57,7 @@ simplecontroller/
 scripts/
 ├── testipc.ipynb
 └── testui.json
+```
 5. Usage Guide
 5.1 Running Steps
 Start the Script: First, start the testipc.ipynb script. This file contains a series of instructions written in Jupyter, defining the GameObject class and packing the relevant movement and click logic in testui.json. This is then transmitted to shared memory.
