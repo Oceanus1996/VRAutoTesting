@@ -87,8 +87,9 @@ Configure JSON files like:
 ```
 The x, y, z coordinates are relative coordinates based on the right-hand coordinate system. The script reads this file to achieve the corresponding movement and click operations.
 9. FAQ
-
+```
 Q: Basic configuration options for SteamVR?
 A: To be compatible with OpenVR, shared memory, and SteamVR, we use Virtual Studio 2022, Qt5.x, and Shared Memory for module communication and compatibility.
 Q: How to ensure the JSON file is read and the new driver is configured in OpenVR?
 A: Copy driver_simplecontroller.dll and mycontroller_profile.json to the relevant folders. You may also need to modify some configuration files. The file and folder structure must follow OpenVR's specifications. Refer to the OpenVR documentation for structure details: https://github.com/ValveSoftware/openvr/tree/master/samples/drivers/drivers/simplecontroller/simplecontroller
+```
