@@ -107,7 +107,7 @@ Configure JSON files like:
 The x, y, z coordinates are relative coordinates based on the right-hand coordinate system. The script reads this file to achieve the corresponding movement and click operations.
 ```
 
-9. FAQ
+8. FAQ
 
 Q: Basic configuration options for SteamVR?
 A: To be compatible with OpenVR, shared memory, and SteamVR, we use Virtual Studio 2022, Qt5.x, and Shared Memory for module communication and compatibility.
