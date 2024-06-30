@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\simplecontroller",
+    "\\simplecontroller\\output",
+    "\\simplecontroller\\output\\drivers",
+    "\\simplecontroller\\output\\drivers\\simplecontroller",
+    "\\simplecontroller\\output\\drivers\\simplecontroller\\bin",
+    "\\simplecontroller\\output\\drivers\\simplecontroller\\bin\\win32",
+    "\\simplecontroller\\simplecontroller\\resources"
+  ],
+  "SelectedNode": "\\simplecontroller\\output\\drivers\\simplecontroller\\bin\\win32",
+  "PreviewInSolutionExplorer": false
+}

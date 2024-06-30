@@ -1,0 +1,270 @@
+[
+  {
+    "x": 0.0299,
+    "y": 0.8499,
+    "z": -0.4,
+    "ftime": 2,
+    "bclick": true,
+    "bdown": false,
+    "bup": false
+  },
+  {
+    "explain": "trigger press",
+    "x": 0.439,
+    "y": 1.47,
+    "z": -0.4,
+    "ftime": 3,
+    "bclick": false,
+    "bdown": true,
+    "bup": false
+  },
+  {
+    "x": 0.05,
+    "y": 1.47,
+    "z": -0.4,
+    "ftime": 4,
+    "bclick": false,
+    "bdown": false,
+    "bup": true
+  },
+  {
+    "x": 0.439,
+    "y": 1.33,
+    "z": -0.4,
+    "ftime": 3,
+    "bclick": false,
+    "bdown": true,
+    "bup": false
+  },
+  {
+    "x": 0.05,
+    "y": 1.33,
+    "z": -0.4,
+    "ftime": 4,
+    "bclick": false,
+    "bdown": false,
+    "bup": true
+  },
+  {
+    "x": 0.439,
+    "y": 1.19,
+    "z": -0.4,
+    "ftime": 3,
+    "bclick": false,
+    "bdown": true,
+    "bup": false
+  },
+  {
+    "x": 0.05,
+    "y": 1.19,
+    "z": -0.4,
+    "ftime": 4,
+    "bclick": false,
+    "bdown": false,
+    "bup": true
+  },
+  {
+    "x": 0.229,
+    "y": 1.05,
+    "z": -0.4,
+    "ftime": 2,
+    "bclick": true,
+    "bdown": false,
+    "bup": false
+  },
+  {
+    "x": 0.269,
+    "y": 0.95,
+    "z": -0.4,
+    "ftime": 1,
+    "bclick": true,
+    "bdown": false,
+    "bup": false
+  },
+  {
+    "x": 0.069,
+    "y": 0.91,
+    "z": -0.4,
+    "ftime": 1,
+    "bclick": true,
+    "bdown": false,
+    "bup": false
+  },
+  {
+    "x": 0,
+    "y": 0.6,
+    "z": -0.4,
+    "ftime": 1,
+    "bclick": true,
+    "bdown": false,
+    "bup": false
+  },
+  {
+    "x": 0,
+    "y": 1.1,
+    "z": -0.4,
+    "ftime": 3,
+    "bclick": true,
+    "bdown": false,
+    "bup": false
+  },
+  {
+    "x": 0,
+    "y": 0.6,
+    "z": -0.4,
+    "ftime": 3,
+    "bclick": true,
+    "bdown": false,
+    "bup": false
+  },
+  {
+    "explain": "edit button click",
+    "x": 0.0299,
+    "y": 0.5799,
+    "z": -0.4,
+    "ftime": 3,
+    "bclick": true,
+    "bdown": false,
+    "bup": false
+  },
+  {
+    "explain": "click input field prepare to input",
+    "x": -0.29,
+    "y": 1.15,
+    "z": -0.4,
+    "ftime": 3,
+    "bclick": true,
+    "bdown": false,
+    "bup": false
+  },
+  {
+    "explain": "click input field prepare to input",
+    "x": -0.29,
+    "y": 1.15,
+    "z": -0.4,
+    "ftime": 3,
+    "bclick": true,
+    "bdown": false,
+    "bup": false
+  },
+  {
+    "explain": "click keyboard shift",
+    "x": -0.95,
+    "y": 0.569,
+    "z": -0.4,
+    "ftime": 1,
+    "bclick": true,
+    "bdown": false,
+    "bup": false
+  },
+  {
+    "explain": "click keyboard w",
+    "x": -0.78,
+    "y": 0.8099,
+    "z": -0.4,
+    "ftime": 1,
+    "bclick": true,
+    "bdown": false,
+    "bup": false
+  },
+  {
+    "explain": "click keyboard e",
+    "x": -0.61,
+    "y": 0.8099,
+    "z": -0.4,
+    "ftime": 1,
+    "bclick": true,
+    "bdown": false,
+    "bup": false
+  },
+  {
+    "explain": "click keyboard l",
+    "x": 0.31,
+    "y": 0.6899,
+    "z": -0.4,
+    "ftime": 1,
+    "bclick": true,
+    "bdown": false,
+    "bup": false
+  },
+  {
+    "explain": "click keyboard c",
+    "x": -0.48,
+    "y": 0.5899,
+    "z": -0.4,
+    "ftime": 1,
+    "bclick": true,
+    "bdown": false,
+    "bup": false
+  },
+  {
+    "explain": "click keyboard o",
+    "x": 0.31,
+    "y": 0.8099,
+    "z": -0.4,
+    "ftime": 1,
+    "bclick": true,
+    "bdown": false,
+    "bup": false
+  },
+  {
+    "explain": "click keyboard m",
+    "x": 0.1299,
+    "y": 0.5899,
+    "z": -0.4,
+    "ftime": 1,
+    "bclick": true,
+    "bdown": false,
+    "bup": false
+  },
+  {
+    "explain": "click keyboard e",
+    "x": -0.61,
+    "y": 0.8099,
+    "z": -0.4,
+    "ftime": 1,
+    "bclick": true,
+    "bdown": false,
+    "bup": false
+  },
+  {
+    "explain": "click keyboard enter",
+    "x": 0.69,
+    "y": 0.69,
+    "z": -0.4,
+    "ftime": 1,
+    "bclick": true,
+    "bdown": false,
+    "bup": false
+  },
+  {
+    "explain": "click return button",
+    "x": 0.0299,
+    "y": 0.599,
+    "z": -0.4,
+    "ftime": 2,
+    "bclick": true,
+    "bdown": false,
+    "bup": false
+  },
+  {
+    "explain": "click start button",
+    "x": 0,
+    "y": 1.5,
+    "z": -0.4,
+    "ftime": 1,
+    "bclick": true,
+    "bdown": false,
+    "bup": false
+  },
+  {
+    "x": 0,
+    "y": 0.4,
+    "z": -0.4,
+    "ftime": 2,
+    "bclick": true,
+    "bdown": false,
+    "bup": false
+  }
+]
+  

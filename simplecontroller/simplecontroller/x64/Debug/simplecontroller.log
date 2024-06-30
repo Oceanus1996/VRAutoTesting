@@ -1,0 +1,23 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8004: Output 目录未以斜杠结尾。  此生成实例将添加斜杠，因为必须有这个斜杠才能正确计算 Output 目录。
+  controller_device_driver.cpp
+  device_provider.cpp
+C:\Users\212xi\uqstudy\engg7814\vr_git\VR-virtual-controller\drivers\drivers\simplecontroller\src\device_provider.cpp(76,11): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+  hmd_driver_factory.cpp
+  正在生成代码...
+C:\Users\212xi\uqstudy\engg7814\vr_git\VR-virtual-controller\drivers\drivers\simplecontroller\src\device_provider.cpp(175): warning C4715: “MyDeviceProvider::InitBridge”: 不是所有的控件路径都返回值
+    正在创建库 C:\Users\212xi\uqstudy\engg7814\vr_git\VR-virtual-controller\drivers\output\drivers\simplecontroller\bin\win64\driver_simplecontroller.lib 和对象 C:\Users\212xi\uqstudy\engg7814\vr_git\VR-virtual-controller\drivers\output\drivers\simplecontroller\bin\win64\driver_simplecontroller.exp
+  simplecontroller.vcxproj -> C:\Users\212xi\uqstudy\engg7814\vr_git\VR-virtual-controller\drivers\output\drivers\simplecontroller\bin\win64\driver_simplecontroller.dll
+  C:\Users\212xi\uqstudy\engg7814\vr_git\VR-virtual-controller\drivers\drivers\simplecontroller\simplecontroller\driver.vrdrivermanifest
+  C:\Users\212xi\uqstudy\engg7814\vr_git\VR-virtual-controller\drivers\drivers\simplecontroller\simplecontroller\resources\driver.vrresources
+  C:\Users\212xi\uqstudy\engg7814\vr_git\VR-virtual-controller\drivers\drivers\simplecontroller\simplecontroller\resources\icons\controller_status_error.png
+  C:\Users\212xi\uqstudy\engg7814\vr_git\VR-virtual-controller\drivers\drivers\simplecontroller\simplecontroller\resources\icons\controller_status_off.png
+  C:\Users\212xi\uqstudy\engg7814\vr_git\VR-virtual-controller\drivers\drivers\simplecontroller\simplecontroller\resources\icons\controller_status_ready.png
+  C:\Users\212xi\uqstudy\engg7814\vr_git\VR-virtual-controller\drivers\drivers\simplecontroller\simplecontroller\resources\icons\controller_status_ready_alert.png
+  C:\Users\212xi\uqstudy\engg7814\vr_git\VR-virtual-controller\drivers\drivers\simplecontroller\simplecontroller\resources\icons\controller_status_ready_low.png
+  C:\Users\212xi\uqstudy\engg7814\vr_git\VR-virtual-controller\drivers\drivers\simplecontroller\simplecontroller\resources\icons\controller_status_searching.gif
+  C:\Users\212xi\uqstudy\engg7814\vr_git\VR-virtual-controller\drivers\drivers\simplecontroller\simplecontroller\resources\icons\controller_status_searching_alert.gif
+  C:\Users\212xi\uqstudy\engg7814\vr_git\VR-virtual-controller\drivers\drivers\simplecontroller\simplecontroller\resources\icons\controller_status_standby.png
+  C:\Users\212xi\uqstudy\engg7814\vr_git\VR-virtual-controller\drivers\drivers\simplecontroller\simplecontroller\resources\input\mycontroller_profile.json
+  C:\Users\212xi\uqstudy\engg7814\vr_git\VR-virtual-controller\drivers\drivers\simplecontroller\simplecontroller\resources\localization\localization.json
+  C:\Users\212xi\uqstudy\engg7814\vr_git\VR-virtual-controller\drivers\drivers\simplecontroller\simplecontroller\resources\settings\default.vrsettings
+  复制了 13 个文件
