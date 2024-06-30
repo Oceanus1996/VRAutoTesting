@@ -73,6 +73,7 @@ Based on the VR open library for movement testing. This library is from the VR-U
 7.2 Test Cases
 Confirm the specific position of the buttons.
 Configure JSON files like:
+```
 {
     "explain": "click input field prepare to input",
     "x": -0.29,
@@ -83,8 +84,9 @@ Configure JSON files like:
     "bdown": false,
     "bup": false
 }
+```
 The x, y, z coordinates are relative coordinates based on the right-hand coordinate system. The script reads this file to achieve the corresponding movement and click operations.
-8. FAQ
+9. FAQ
 
 Q: Basic configuration options for SteamVR?
 A: To be compatible with OpenVR, shared memory, and SteamVR, we use Virtual Studio 2022, Qt5.x, and Shared Memory for module communication and compatibility.
