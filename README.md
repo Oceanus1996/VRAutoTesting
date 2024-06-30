@@ -30,6 +30,11 @@ Code Acquisition: The relevant code has been stored in a specific location (e.g.
 Driver Code Structure
 css
 Copy code
+## Code Structure
+### 4.1 Files and Directories
+
+#### Driver Code Structure
+```css
 simplecontroller/
 ├── src/
 │   ├── controller_device_driver.cpp
@@ -47,6 +52,8 @@ simplecontroller/
 │   │   ├── simple_controller_remapping.json
 │   │   └── localization/
 │   │       └── localization.json
+
+#### Script Structure
 scripts/
 ├── testipc.ipynb
 └── testui.json
