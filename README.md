@@ -1,10 +1,12 @@
 VR Controller Simulator
 
 1. Project Overview
+   
 1.1 Project Name
+
 VR Controller Simulator
 
-1.2 Background.
+1.2 Background
 
 This project aims to simulate the behavior of VR controllers for automated testing of the GUI of VR applications.
 Separate from Unity and other mature frameworks, it achieves pervasive control of VR-related functions, including but not limited to movement, click, drop-down, and other interactive behaviors.
@@ -67,6 +69,7 @@ scripts/
 ├── testipc.ipynb
 └── testui.json
 ```
+
 5. Usage Guide
 
 5.1 Running Steps
@@ -110,7 +113,10 @@ The x, y, z coordinates are relative coordinates based on the right-hand coordin
 8. FAQ
 
 Q: Basic configuration options for SteamVR?
+
 A: To be compatible with OpenVR, shared memory, and SteamVR, we use Virtual Studio 2022, Qt5.x, and Shared Memory for module communication and compatibility.
+
 Q: How to ensure the JSON file is read and the new driver is configured in OpenVR?
+
 A: Copy driver_simplecontroller.dll and mycontroller_profile.json to the relevant folders. You may also need to modify some configuration files. The file and folder structure must follow OpenVR's specifications. Refer to the OpenVR documentation for structure details: https://github.com/ValveSoftware/openvr/tree/master/samples/drivers/drivers/simplecontroller/simplecontroller
 
