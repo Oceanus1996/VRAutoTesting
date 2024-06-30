@@ -47,8 +47,6 @@ simplecontroller/
 │   │   ├── simple_controller_remapping.json
 │   │   └── localization/
 │   │       └── localization.json
-Script Structure
-Copy code
 scripts/
 ├── testipc.ipynb
 └── testui.json
