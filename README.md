@@ -12,7 +12,7 @@ Project Processing Logic: Achieve automated control of VR by writing drivers und
 ```
 2. System Requirements
 2.1 Hardware Requirements
-   ```
+```
 A pair of Oculus Quest2 VR glasses and controller grips.
 A 3.0 USB cable for connection and communication.
 ```
