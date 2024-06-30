@@ -4,7 +4,7 @@ VR Controller Simulator
 1.1 Project Name
 VR Controller Simulator
 
-1.2 Background
+1.2 Background.
 This project aims to simulate the behavior of VR controllers for automated testing of the GUI of VR applications.
 Separate from Unity and other mature frameworks, it achieves pervasive control of VR-related functions, including but not limited to movement, click, drop-down, and other interactive behaviors.
 Project Processing Logic: Achieve automated control of VR by writing drivers under the OpenVR framework.
